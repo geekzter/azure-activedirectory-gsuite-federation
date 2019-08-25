@@ -1,0 +1,5 @@
+# No secrets from G Suite
+GoogleIDPMetadata-*.*
+
+# No certificates
+*.pem
